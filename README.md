@@ -20,11 +20,19 @@ After signing up, open a terminal and run the following git commands to set your
 ## Listing of UFS and EPIC Repositories
 
 [UFS](https://github.com/ufs-community/ufs-weather-model)
+
 [Short Range Weather (SRW) App](https://github.com/ufs-community/ufs-srweather-app)
+
 [UFS Utilities](https://github.com/ufs-community/ufs_utils)
+
 [Land DA](https://github.com/ufs-community/land-DA_workflow)
+
 [JEDI](https://github.com/jcsda/fv3-jedi)
+
 [IODA](https://github.com/jcsda/ioda)
+
 [spack-stack](https://github.com/jcsda/spack-stack)
+
 [spack](https://github.com/jcsda/spack)
+
 [GSI](https://github.com/NOAA-EMC/GSI)
