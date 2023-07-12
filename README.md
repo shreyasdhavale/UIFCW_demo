@@ -4,7 +4,7 @@
 ## Prerequisites
 
 1. Verify that you have git installed on your system: `git --version` (Note that version 2.30+ is recommended for working with UFS repositories; not required for today)
-2. Next, create a GitHub account if you do not have one: [GitHub Signup](https://github.com/signup)
+2. Next, create a GitHub account if you do not already have one: [GitHub Signup](https://github.com/signup)
 
 ## Listing of some UFS and EPIC Repositories
 
