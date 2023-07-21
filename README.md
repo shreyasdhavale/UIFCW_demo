@@ -19,4 +19,4 @@
 | IODA | https://github.com/jcsda/ioda |
 | spack-stack | https://github.com/jcsda/spack-stack |
 | spack | https://github.com/jcsda/spack |
-| GSI | https://github.com/NOAA-EMC/GSI |
+| global-workflow | https://github.com/NOAA-EMC/global-workflow |
